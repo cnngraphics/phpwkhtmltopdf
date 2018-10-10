@@ -1,0 +1,14 @@
+{
+    "name": "pas/pdf",
+    "description": "Pdf generator",
+    "authors": [
+        {
+            "name": "Theo",
+            "email": "admin@proappstore.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.8",
+        "mikehaertl/phpwkhtmltopdf": "^2.3"
+    }
+}
